@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ["tailwindui.com"]
+    domains: ["storage.googleapis.com"]
   }
   /* config options here */
 };

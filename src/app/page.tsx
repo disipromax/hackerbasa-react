@@ -7,7 +7,7 @@ const products = [
     href: "#",
     price: "$48",
     imageSrc:
-      "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-01.jpg",
+      "https://storage.googleapis.com/kelteno-file-api-public/images/catharsis.jpg",
     imageAlt:
       "Tall slender porcelain bottle with natural clay textured body and cork stopper.",
     color: "Red",
@@ -18,7 +18,7 @@ const products = [
     href: "#",
     price: "$35",
     imageSrc:
-      "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg",
+      "https://storage.googleapis.com/kelteno-file-api-public/images/hkrbs.jpg",
     imageAlt:
       "Olive drab green insulated bottle with flared screw lid and flat top.",
     color: "Red",
@@ -29,7 +29,7 @@ const products = [
     href: "#",
     price: "$89",
     imageSrc:
-      "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg",
+      "https://storage.googleapis.com/kelteno-file-api-public/images/catharsis.jpg",
     imageAlt:
       "Person using a pen to cross a task off a productivity paper card.",
     color: "Red",
@@ -40,7 +40,7 @@ const products = [
     href: "#",
     price: "$35",
     imageSrc:
-      "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "https://storage.googleapis.com/kelteno-file-api-public/images/hrkbs.jpg",
     imageAlt:
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
     color: "Red",
@@ -53,7 +53,7 @@ export default function Home() {
     <div className="bg-white">
       <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
         <h2 className="text-2xl font-bold tracking-tight text-gray-900">
-           Hackerbasa Shop
+          Hackerbasa Shop
         </h2>
 
         <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
